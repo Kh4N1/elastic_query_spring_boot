@@ -20,7 +20,7 @@ Content-Type: application/json
 }
 ```
 
-![API Search Example](src/main/resources/API Search Example.jpg)
+![API Search Example](src/main/resources/API%20Search%20Example.jpg)
 
 ## Setup & Run
 1. `mvn clean install`
